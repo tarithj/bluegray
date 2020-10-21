@@ -31,7 +31,7 @@ namespace bluegray
 
         Timer t;
         Random r;
-        string[] msgs = { "REGISTRY_ERROR (0x00000051)", "Fatel Error", "Out of memory or system resources. Close some programs and try again", "Cant load user " + Environment.UserName, "0x000146 ERROR", "0x012458 Error", "CPU usage too high"};
+        string[] msgs = { "REGISTRY_ERROR (0x00000051)", "Fatel Error", "Out of memory or system resources. Close some programs and try again", "Cant load user " + Environment.UserName, "0x000146 ERROR", "0x012458 Error", "CPU usage too high", "Memory usage too high" };
 
 
         private void timerC(object state)

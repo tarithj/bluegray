@@ -5,6 +5,9 @@
 BlueGray is a grayware that will annoy the person how run the compiled BlueGray exe
 with error messages and fake error screens.
 
+## Disclamer
+Code is released under MIT LICENSE so feel free to use it wherever you want.
+
 ## Q&A
 
 ### Is BlueGray dangerous?
@@ -15,3 +18,7 @@ BlueGray is writen in C# (.NET Framework 4.7.2)
 
 ### Can I download a precompiled binary file
 No, We don't provide precomplied binaries you have to compile them by yourself.
+
+### How can I help
+You can help by staring the project or by subbmiting a PR(Read CONTRIBUTING.md)
+

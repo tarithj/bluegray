@@ -58,7 +58,7 @@ namespace bluegray
         private void T_Tick(object sender, EventArgs e)
         {
             int generateNumber = r.Next(2);
-            t.Interval = r.Next(200, 2000);
+            t.Interval = r.Next(500, 2000);
 
             if (generateNumber == 1)
             {

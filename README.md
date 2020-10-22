@@ -2,7 +2,7 @@
 
 ![A screenshot of bluegrey grayware](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bluegray.gif)
 ## What is BLUEGRAY
-BlueGray is a grayware that will annoy the person how run the compiled BlueGray exe
+BlueGray is a grayware that will annoy the person who run the compiled BlueGray exe
 with error messages and fake error screens.
 
 ## Disclamer
